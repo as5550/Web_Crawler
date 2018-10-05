@@ -5,4 +5,4 @@ First run general.py,
 then domain.py,
 then link_finder.py,
 then spider.py,
-and at last main.py
+and finally main.py
